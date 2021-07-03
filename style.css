@@ -25,6 +25,7 @@
 }
 #mainpage .c1 li{
     margin-bottom: 10px;
+    padding: 5px;
 }
 
 #mainpage .c1 a{
@@ -44,5 +45,8 @@
     
   background-color: cadetblue;
 }
+ .change{
     
+  background-color: cadetblue !important;
+}
     
